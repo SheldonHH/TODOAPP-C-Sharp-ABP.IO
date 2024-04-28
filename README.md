@@ -1,0 +1,11 @@
+
+
+
+```json
+{
+  "ConnectionStrings": {
+    "Default": "Server=localhost,1433;Database=TodoAppDb;User Id=sa;Password=YourStrong!Passw0rd;Encrypt=false;TrustServerCertificate=true;"
+  }
+}
+
+```# TODOAPP-C-Sharp-ABP.IO
