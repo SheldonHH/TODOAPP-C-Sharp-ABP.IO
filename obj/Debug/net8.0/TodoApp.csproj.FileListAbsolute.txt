@@ -615,3 +615,4 @@
 /Users/mac/Desktop/abp-projects/TodoApp/obj/Debug/net8.0/TodoApp.genruntimeconfig.cache
 /Users/mac/Desktop/abp-projects/TodoApp/obj/Debug/net8.0/ref/TodoApp.dll
 /Users/mac/Desktop/abp-projects/TodoApp/bin/Debug/net8.0/package-lock.json
+/Users/mac/Desktop/abp-projects/TodoApp/obj/Debug/net8.0/TodoApp.sourcelink.json
